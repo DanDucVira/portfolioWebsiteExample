@@ -338,7 +338,7 @@ img {
                 'subject phone'
                 'message message';
             grid-gap: 1.2rem;
-            margin-bottom: 1, 2rem;
+            margin-bottom: 1 2rem;
 
 
             //Grid Areas
@@ -434,3 +434,6 @@ img {
 
 
 }
+
+// Import Media Queries
+@import 'media';
